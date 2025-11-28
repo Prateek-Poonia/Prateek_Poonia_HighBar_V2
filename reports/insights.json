@@ -1,0 +1,73 @@
+{
+  "query": "Why did ROAS fall last week?",
+  "plan": {
+    "restated_query": "Why did ROAS fall last week?",
+    "subtasks": [
+      {
+        "id": "t1",
+        "task": "time_series_aggregate",
+        "reason": "visualize trend and compute rolling metrics"
+      },
+      {
+        "id": "t2",
+        "task": "creative_performance_analysis",
+        "reason": "find creatives with low CTR"
+      },
+      {
+        "id": "t3",
+        "task": "audience_fatigue_check",
+        "reason": "compare frequency and CTR signals"
+      }
+    ],
+    "expected_data": [
+      "date",
+      "spend",
+      "impressions",
+      "clicks",
+      "ctr",
+      "purchases",
+      "revenue",
+      "roas"
+    ],
+    "stop_criteria": {
+      "min_confidence": 0.7
+    }
+  },
+  "hypotheses": [
+    {
+      "hypothesis": {
+        "id": "h1",
+        "title": "Audience fatigue",
+        "description": "CTR decreased over time while impressions stable/increasing",
+        "expected_signature": [
+          "ctr_down",
+          "impressions_up_or_stable"
+        ],
+        "priority": 1
+      },
+      "evaluation": {
+        "test": "pearson",
+        "statistic": -0.0016297738170014953,
+        "p_value": 0.9129659338337894,
+        "conclusion": "inconclusive",
+        "confidence": 0.0016297738170014953
+      }
+    },
+    {
+      "hypothesis": {
+        "id": "h3",
+        "title": "Platform / country shift",
+        "description": "Changes in platform mix or country performance may explain ROAS moves",
+        "expected_signature": [
+          "platform_country_variation"
+        ],
+        "priority": 3
+      },
+      "evaluation": {
+        "conclusion": "inconclusive",
+        "confidence": 0.0
+      }
+    }
+  ],
+  "generated_at": "2025-11-28 09:40:24.564178"
+}

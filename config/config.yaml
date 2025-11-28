@@ -1,0 +1,6 @@
+random_seed: 42
+min_confidence: 0.60
+sample_size: 1000
+reports_path: reports
+data_path: data/synthetic_fb_ads_undergarments.csv
+use_sample_data: true

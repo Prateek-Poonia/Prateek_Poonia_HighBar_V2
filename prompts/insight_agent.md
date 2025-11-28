@@ -1,0 +1,1 @@
+Insight Agent prompt (see spec).

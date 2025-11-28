@@ -1,0 +1,1 @@
+Creative Generator prompt (see spec).

@@ -9,7 +9,7 @@
         "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.99
+        "predicted_ctr_lift_pct": 9.81
       },
       {
         "id": "c2",
@@ -17,7 +17,7 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.76
+        "predicted_ctr_lift_pct": 11.16
       },
       {
         "id": "c3",
@@ -25,7 +25,7 @@
         "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.99
+        "predicted_ctr_lift_pct": 10.01
       },
       {
         "id": "c4",
@@ -33,7 +33,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.78
+        "predicted_ctr_lift_pct": 10.86
       },
       {
         "id": "c5",
@@ -41,7 +41,7 @@
         "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.63
+        "predicted_ctr_lift_pct": 11.6
       },
       {
         "id": "c6",
@@ -49,7 +49,7 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.69
+        "predicted_ctr_lift_pct": 9.67
       }
     ]
   },
@@ -63,7 +63,7 @@
         "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.82
+        "predicted_ctr_lift_pct": 5.59
       },
       {
         "id": "c2",
@@ -71,7 +71,655 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.07
+        "predicted_ctr_lift_pct": 11.2
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.78
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.3
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.77
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.09
+      }
+    ]
+  },
+  {
+    "campaign": "MEN BOLD  OLORS DROP",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.26
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.88
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.52
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.09
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.19
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.3
+      }
+    ]
+  },
+  {
+    "campaign": "MEN BOLD COL RS DROP",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.54
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.39
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.15
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.99
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.54
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.99
+      }
+    ]
+  },
+  {
+    "campaign": "MEN PREMIUM MOD-L",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.94
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.1
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.55
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.35
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.71
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.11
+      }
+    ]
+  },
+  {
+    "campaign": "Me   Premium  Modal",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.46
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.73
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.01
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.96
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.71
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.51
+      }
+    ]
+  },
+  {
+    "campaign": "Men  Bold  Coors  Drop",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.3
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.28
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.65
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.85
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.15
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.24
+      }
+    ]
+  },
+  {
+    "campaign": "Men -|  Athleisure  Cooling",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.18
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.65
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.59
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.65
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.64
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.48
+      }
+    ]
+  },
+  {
+    "campaign": "Men B-ld Colors Drop",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.65
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.74
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.23
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.55
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.25
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.66
+      }
+    ]
+  },
+  {
+    "campaign": "Men BoldColors Drop",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.45
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.93
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.24
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.87
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.82
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.13
+      }
+    ]
+  },
+  {
+    "campaign": "Men Pr-mium Modal",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.56
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.88
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.68
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.17
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.12
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.36
+      }
+    ]
+  },
+  {
+    "campaign": "Men Premiu- Modal",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.68
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.9
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.44
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.34
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.83
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.38
+      }
+    ]
+  },
+  {
+    "campaign": "Men Premium -odal",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.08
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.47
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.51
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.27
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.22
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.22
+      }
+    ]
+  },
+  {
+    "campaign": "WOEN  Cotton  Classics",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.17
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.64
       },
       {
         "id": "c3",
@@ -87,7 +735,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.99
+        "predicted_ctr_lift_pct": 5.17
       },
       {
         "id": "c5",
@@ -95,7 +743,7 @@
         "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.38
+        "predicted_ctr_lift_pct": 11.43
       },
       {
         "id": "c6",
@@ -103,655 +751,7 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.04
-      }
-    ]
-  },
-  {
-    "campaign": "MEN BOLD  OLORS DROP",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.75
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.69
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.47
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.46
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.35
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.01
-      }
-    ]
-  },
-  {
-    "campaign": "MEN BOLD COL RS DROP",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.64
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.52
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.52
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.23
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.68
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.0
-      }
-    ]
-  },
-  {
-    "campaign": "MEN PREMIUM MOD-L",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.5
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.26
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.36
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.15
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.42
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.1
-      }
-    ]
-  },
-  {
-    "campaign": "Me   Premium  Modal",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.13
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.0
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.92
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.35
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.1
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.42
-      }
-    ]
-  },
-  {
-    "campaign": "Men  Bold  Coors  Drop",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.28
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.92
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.46
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.48
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.58
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.19
-      }
-    ]
-  },
-  {
-    "campaign": "Men -|  Athleisure  Cooling",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.79
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.4
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.09
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.8
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.42
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.55
-      }
-    ]
-  },
-  {
-    "campaign": "Men B-ld Colors Drop",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.48
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.12
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.2
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.29
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.58
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.79
-      }
-    ]
-  },
-  {
-    "campaign": "Men BoldColors Drop",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.12
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.5
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.02
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.34
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.07
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.36
-      }
-    ]
-  },
-  {
-    "campaign": "Men Pr-mium Modal",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.24
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.59
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.93
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.82
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.39
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.25
-      }
-    ]
-  },
-  {
-    "campaign": "Men Premiu- Modal",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.0
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.13
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.86
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.49
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.54
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.14
-      }
-    ]
-  },
-  {
-    "campaign": "Men Premium -odal",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.64
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.87
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.57
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.91
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.98
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.52
-      }
-    ]
-  },
-  {
-    "campaign": "WOEN  Cotton  Classics",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.86
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.27
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.24
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.2
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.3
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.18
+        "predicted_ctr_lift_pct": 8.42
       }
     ]
   },
@@ -765,7 +765,7 @@
         "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.48
+        "predicted_ctr_lift_pct": 11.77
       },
       {
         "id": "c2",
@@ -773,7 +773,7 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.61
+        "predicted_ctr_lift_pct": 8.32
       },
       {
         "id": "c3",
@@ -781,7 +781,7 @@
         "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.89
+        "predicted_ctr_lift_pct": 9.42
       },
       {
         "id": "c4",
@@ -789,7 +789,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.45
+        "predicted_ctr_lift_pct": 9.6
       },
       {
         "id": "c5",
@@ -797,7 +797,7 @@
         "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.78
+        "predicted_ctr_lift_pct": 10.7
       },
       {
         "id": "c6",
@@ -805,7 +805,7 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.63
+        "predicted_ctr_lift_pct": 11.79
       }
     ]
   },
@@ -819,7 +819,7 @@
         "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.68
+        "predicted_ctr_lift_pct": 11.3
       },
       {
         "id": "c2",
@@ -827,7 +827,7 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.58
+        "predicted_ctr_lift_pct": 7.73
       },
       {
         "id": "c3",
@@ -835,7 +835,7 @@
         "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.03
+        "predicted_ctr_lift_pct": 7.58
       },
       {
         "id": "c4",
@@ -843,7 +843,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.55
+        "predicted_ctr_lift_pct": 9.94
       },
       {
         "id": "c5",
@@ -851,7 +851,7 @@
         "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.73
+        "predicted_ctr_lift_pct": 5.09
       },
       {
         "id": "c6",
@@ -859,7 +859,7 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.56
+        "predicted_ctr_lift_pct": 11.43
       }
     ]
   },
@@ -873,7 +873,7 @@
         "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.26
+        "predicted_ctr_lift_pct": 10.99
       },
       {
         "id": "c2",
@@ -881,339 +881,15 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.46
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.04
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.19
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.04
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.19
-      }
-    ]
-  },
-  {
-    "campaign": "WOMEN Semless Everyday",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.95
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.67
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.64
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.12
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.03
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.46
-      }
-    ]
-  },
-  {
-    "campaign": "WOMEN_Cot-on_Classics",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.58
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.58
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.42
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.25
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.61
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.83
-      }
-    ]
-  },
-  {
-    "campaign": "WOMN_Cotton_Classics",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.98
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.91
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.79
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.46
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.68
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.55
-      }
-    ]
-  },
-  {
-    "campaign": "Wmen | Studio Sports",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.7
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.8
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.08
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.62
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.77
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.36
-      }
-    ]
-  },
-  {
-    "campaign": "Wom-n Fit & Lift",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.61
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.37
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.08
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
         "predicted_ctr_lift_pct": 10.69
       },
       {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.59
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.19
-      }
-    ]
-  },
-  {
-    "campaign": "Women Seamless Eve yday",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.17
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.55
-      },
-      {
         "id": "c3",
         "headline": "New: Bras for everyday comfort. Buy today.",
         "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.79
+        "predicted_ctr_lift_pct": 10.78
       },
       {
         "id": "c4",
@@ -1221,169 +897,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.14
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.16
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.9
-      }
-    ]
-  },
-  {
-    "campaign": "Women-Studio S orts",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.11
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.29
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.7
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.65
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 7.84
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.71
-      }
-    ]
-  },
-  {
-    "campaign": "Women-Studio Spo-ts",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.04
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.71
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.34
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.39
-      },
-      {
-        "id": "c5",
-        "headline": "Experience Free. Shop the collection.",
-        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.69
-      },
-      {
-        "id": "c6",
-        "headline": "Comfort & confidence: Wire. Order now.",
-        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.33
-      }
-    ]
-  },
-  {
-    "campaign": "women su-mer invisible",
-    "creative_type": "mixed",
-    "recommendations": [
-      {
-        "id": "c1",
-        "headline": "Men \u2014 limited time. Shop now.",
-        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.17
-      },
-      {
-        "id": "c2",
-        "headline": "Feel the Women. Free shipping over \u20b9999.",
-        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.45
-      },
-      {
-        "id": "c3",
-        "headline": "New: Bras for everyday comfort. Buy today.",
-        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.03
-      },
-      {
-        "id": "c4",
-        "headline": "Briefs at special price \u2014 grab before it's gone.",
-        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
-        "cta": "Shop Now",
-        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 11.4
+        "predicted_ctr_lift_pct": 10.7
       },
       {
         "id": "c5",
@@ -1399,12 +913,336 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.11
+        "predicted_ctr_lift_pct": 5.3
       }
     ]
   },
   {
-    "campaign": "women | studio spo ts",
+    "campaign": "WOMEN Semless Everyday",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.97
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.69
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.43
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.64
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.4
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.33
+      }
+    ]
+  },
+  {
+    "campaign": "WOMEN_Cot-on_Classics",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.98
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.0
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.89
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.35
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.71
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.27
+      }
+    ]
+  },
+  {
+    "campaign": "WOMN_Cotton_Classics",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.89
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.85
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.22
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.1
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.33
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.38
+      }
+    ]
+  },
+  {
+    "campaign": "Wmen | Studio Sports",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.18
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.04
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.42
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.32
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.18
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.98
+      }
+    ]
+  },
+  {
+    "campaign": "Wom-n Fit & Lift",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.21
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.23
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.04
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.33
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.19
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.68
+      }
+    ]
+  },
+  {
+    "campaign": "Women Seamless Eve yday",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.49
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.05
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.07
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.51
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.52
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.95
+      }
+    ]
+  },
+  {
+    "campaign": "Women-Studio S orts",
     "creative_type": "mixed",
     "recommendations": [
       {
@@ -1421,7 +1259,7 @@
         "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'women' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 5.58
+        "predicted_ctr_lift_pct": 7.14
       },
       {
         "id": "c3",
@@ -1429,7 +1267,7 @@
         "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 6.54
+        "predicted_ctr_lift_pct": 5.62
       },
       {
         "id": "c4",
@@ -1437,7 +1275,7 @@
         "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 10.7
+        "predicted_ctr_lift_pct": 9.56
       },
       {
         "id": "c5",
@@ -1445,7 +1283,7 @@
         "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'free' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 8.71
+        "predicted_ctr_lift_pct": 11.43
       },
       {
         "id": "c6",
@@ -1453,7 +1291,169 @@
         "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
         "cta": "Shop Now",
         "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
-        "predicted_ctr_lift_pct": 9.11
+        "predicted_ctr_lift_pct": 8.54
+      }
+    ]
+  },
+  {
+    "campaign": "Women-Studio Spo-ts",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.69
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 9.7
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.93
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.48
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.65
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.85
+      }
+    ]
+  },
+  {
+    "campaign": "women su-mer invisible",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.59
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.61
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.82
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 7.75
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.92
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 10.92
+      }
+    ]
+  },
+  {
+    "campaign": "women | studio spo ts",
+    "creative_type": "mixed",
+    "recommendations": [
+      {
+        "id": "c1",
+        "headline": "Men \u2014 limited time. Shop now.",
+        "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'men' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.72
+      },
+      {
+        "id": "c2",
+        "headline": "Feel the Women. Free shipping over \u20b9999.",
+        "primary_text": "Discover our bestsellers: Feel the Women. Free shipping over \u20b9999.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'women' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 8.67
+      },
+      {
+        "id": "c3",
+        "headline": "New: Bras for everyday comfort. Buy today.",
+        "primary_text": "Discover our bestsellers: New: Bras for everyday comfort. Buy today.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'bras' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.6
+      },
+      {
+        "id": "c4",
+        "headline": "Briefs at special price \u2014 grab before it's gone.",
+        "primary_text": "Discover our bestsellers: Briefs at special price \u2014 grab before it's gone.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'briefs' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 6.59
+      },
+      {
+        "id": "c5",
+        "headline": "Experience Free. Shop the collection.",
+        "primary_text": "Discover our bestsellers: Experience Free. Shop the collection.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'free' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 11.22
+      },
+      {
+        "id": "c6",
+        "headline": "Comfort & confidence: Wire. Order now.",
+        "primary_text": "Discover our bestsellers: Comfort & confidence: Wire. Order now.",
+        "cta": "Shop Now",
+        "rationale": "Built from top phrase 'wire' observed in high-performing creatives",
+        "predicted_ctr_lift_pct": 5.96
       }
     ]
   }

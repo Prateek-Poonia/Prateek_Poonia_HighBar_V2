@@ -30,7 +30,7 @@
       "roas"
     ],
     "stop_criteria": {
-      "min_confidence": 0.7
+      "min_confidence": 0.6
     }
   },
   "hypotheses": [
@@ -69,5 +69,5 @@
       }
     }
   ],
-  "generated_at": "2025-11-28 09:40:24.564178"
+  "generated_at": "2025-11-28 11:47:36.334866"
 }

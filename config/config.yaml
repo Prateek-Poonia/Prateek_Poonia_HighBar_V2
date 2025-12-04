@@ -1,6 +1,111 @@
+# random_seed: 42
+# min_confidence: 0.60
+# sample_size: 1000
+# reports_path: reports
+# data_path: data/synthetic_fb_ads_undergarments.csv
+# use_sample_data: true
+# ===========================
+#  GLOBAL SETTINGS
+# ===========================
 random_seed: 42
-min_confidence: 0.60
-sample_size: 1000
-reports_path: reports
-data_path: data/synthetic_fb_ads_undergarments.csv
 use_sample_data: true
+sample_size: 1000
+
+paths:
+  data_path: "data/synthetic_fb_ads_undergarments.csv"
+  reports_path: "reports/"
+  logs_path: "logs/"
+  output_path: "outputs/"
+  schema_path: "schema/fb_ads_schema.yaml"
+
+# ===========================
+#  SCHEMA VALIDATION
+# ===========================
+schema:
+  required_columns:
+    - campaign_id
+    - adset_id
+    - ad_id
+    - impressions
+    - clicks
+    - spend
+    - conversions
+    - revenue
+    - cpc
+    - cpm
+    - ctr
+    - roas
+    - date
+  dtypes:
+    campaign_id: str
+    adset_id: str
+    ad_id: str
+    impressions: int
+    clicks: int
+    spend: float
+    conversions: int
+    revenue: float
+    cpc: float
+    cpm: float
+    ctr: float
+    roas: float
+    date: str
+
+# ===========================
+#  EVALUATOR SETTINGS
+# ===========================
+evaluator:
+  min_confidence: 0.60       # final output must pass confidence check
+  significance_threshold: 0.05
+  min_delta_pct: 0.10        # minimum drop/increase to be considered meaningful
+  severity_bands:
+    high: 0.30
+    medium: 0.15
+    low: 0.05
+
+# ===========================
+#  CREATIVE AGENT SETTINGS
+# ===========================
+creative:
+  num_variations: 5
+  require_data_reference: true
+  angle_templates:
+    - "Address low CTR by improving {creative_issue}"
+    - "Target segment {segment} with messaging focused on {key_driver}"
+    - "Improve ROAS by optimizing {bottleneck_metric}"
+  hooks:
+    - "Solve the exact pain point"
+    - "Show clear before/after transformation"
+    - "Highlight scarcity or urgency"
+
+# ===========================
+#  SEGMENTATION SETTINGS
+# ===========================
+segmentation:
+  segment_by:
+    - age_group
+    - gender
+    - placement
+    - device
+  min_group_size: 50
+
+# ===========================
+#  LOGGING & ERROR HANDLING
+# ===========================
+logging:
+  level: "INFO"
+  mode: "structured"
+  rotate: true
+  max_file_size_mb: 5
+
+resilience:
+  max_retries: 3
+  retry_delay_sec: 2
+  fail_on_schema_error: true
+  fail_on_empty_segments: false
+
+# ===========================
+# RUN CONFIG
+# ===========================
+run:
+  mode: "full"   # values: full, analysis_only, creative_only

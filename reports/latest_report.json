@@ -1,0 +1,532 @@
+{
+  "insights": {
+    "hypotheses": [
+      {
+        "id": "h1",
+        "title": "Audience fatigue",
+        "description": "CTR decreased over time while impressions remained stable or increased",
+        "expected_signature": [
+          "ctr_down",
+          "impressions_up_or_stable"
+        ],
+        "priority": 1,
+        "confidence": 0.01
+      },
+      {
+        "id": "h3",
+        "title": "Platform / country shift",
+        "description": "Changes in platform mix or country performance may explain ROAS fluctuations",
+        "expected_signature": [
+          "platform_country_variation"
+        ],
+        "priority": 3,
+        "confidence": 0.7
+      }
+    ]
+  },
+  "hypotheses": {
+    "restated_query": "Analyze ROAS drop in last 7 days",
+    "subtasks": [
+      {
+        "id": "t1",
+        "task": "time_series_aggregate",
+        "reason": "Visualize trends, compute rolling 7-day metrics, detect anomalies",
+        "priority": 1
+      },
+      {
+        "id": "t2",
+        "task": "creative_performance_analysis",
+        "reason": "Identify low-performing creatives and quantify CTR/ROAS deviations",
+        "priority": 2
+      },
+      {
+        "id": "t3",
+        "task": "audience_fatigue_check",
+        "reason": "Compare frequency and CTR signals to detect audience fatigue or saturation",
+        "priority": 3
+      },
+      {
+        "id": "t4",
+        "task": "platform_country_shift",
+        "reason": "Check campaign performance across platforms and countries for shifts",
+        "priority": 4
+      }
+    ],
+    "expected_data": [
+      "date",
+      "spend",
+      "impressions",
+      "clicks",
+      "ctr",
+      "purchases",
+      "revenue",
+      "roas",
+      "creative_message",
+      "campaign_name",
+      "adset_name",
+      "platform",
+      "country"
+    ],
+    "stop_criteria": {
+      "min_confidence": 0.7,
+      "max_missing_columns_pct": 0.1
+    }
+  },
+  "creatives": [
+    {
+      "id": "c1",
+      "headline": "Men \u2014 limited time. Shop now.",
+      "primary_text": "Discover our bestsellers: Men \u2014 limited time. Shop now.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Men' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 5.95
+    },
+    {
+      "id": "c2",
+      "headline": "Feel the Breathable. Free shipping over \u20b9999.",
+      "primary_text": "Discover our bestsellers: Feel the Breathable. Free shipping over \u20b9999.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Breathable' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 9.52
+    },
+    {
+      "id": "c3",
+      "headline": "New: Briefs for everyday comfort. Buy today.",
+      "primary_text": "Discover our bestsellers: New: Briefs for everyday comfort. Buy today.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Briefs' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 8.24
+    },
+    {
+      "id": "c4",
+      "headline": "Limited at special price \u2014 grab before it's gone.",
+      "primary_text": "Discover our bestsellers: Limited at special price \u2014 grab before it's gone.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Limited' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 5.53
+    },
+    {
+      "id": "c5",
+      "headline": "Experience Limited offer. Shop the collection.",
+      "primary_text": "Discover our bestsellers: Experience Limited offer. Shop the collection.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Limited offer' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 7.38
+    },
+    {
+      "id": "c6",
+      "headline": "Comfort & confidence: Moves. Order now.",
+      "primary_text": "Discover our bestsellers: Comfort & confidence: Moves. Order now.",
+      "cta": "Shop Now",
+      "rationale": "Generated using top-performing phrase 'Moves' based on creative analysis from campaign 'None'.",
+      "predicted_ctr_lift_pct": 5.61
+    }
+  ],
+  "evaluations": [
+    {
+      "creative_id": "c1",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    },
+    {
+      "creative_id": "c2",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    },
+    {
+      "creative_id": "c3",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    },
+    {
+      "creative_id": "c4",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    },
+    {
+      "creative_id": "c5",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    },
+    {
+      "creative_id": "c6",
+      "evaluation": {
+        "test": "ttest",
+        "tstat": 7.440160476618589,
+        "p_value": 9.536555733312901e-08,
+        "effect_mean_diff": 0.006532401092509906,
+        "conclusion": "supported",
+        "confidence": 0.99
+      }
+    }
+  ],
+  "time_series_sample": [
+    {
+      "date": "2025-03-02T00:00:00",
+      "impressions": 4068316,
+      "clicks": 54293.0,
+      "spend": 5984.09,
+      "revenue": 42026.82,
+      "ctr": 0.013345325191061854,
+      "roas": 7.023092901343396,
+      "ctr_7d": 0.01223951231468133,
+      "roas_7d": 6.063915891686799
+    },
+    {
+      "date": "2025-03-03T00:00:00",
+      "impressions": 4214016,
+      "clicks": 49878.0,
+      "spend": 6433.64,
+      "revenue": 37142.3,
+      "ctr": 0.011836215144887917,
+      "roas": 5.77313931149396,
+      "ctr_7d": 0.012179575926729616,
+      "roas_7d": 5.810091853078609
+    },
+    {
+      "date": "2025-03-04T00:00:00",
+      "impressions": 2609889,
+      "clicks": 36990.0,
+      "spend": 6507.5,
+      "revenue": 45723.27,
+      "ctr": 0.014173016553577566,
+      "roas": 7.026242028428736,
+      "ctr_7d": 0.0126590139069455,
+      "roas_7d": 6.424559677358681
+    },
+    {
+      "date": "2025-03-05T00:00:00",
+      "impressions": 3362828,
+      "clicks": 45469.0,
+      "spend": 7061.19,
+      "revenue": 22529.670000000002,
+      "ctr": 0.013521060250479656,
+      "roas": 3.190633590088923,
+      "ctr_7d": 0.013010740380508451,
+      "roas_7d": 6.1115217259259245
+    },
+    {
+      "date": "2025-03-06T00:00:00",
+      "impressions": 1711953,
+      "clicks": 16747.0,
+      "spend": 5227.07,
+      "revenue": 9098.21,
+      "ctr": 0.009782394726958042,
+      "roas": 1.7405946352354187,
+      "ctr_7d": 0.01282444647291242,
+      "roas_7d": 5.525431173991677
+    },
+    {
+      "date": "2025-03-07T00:00:00",
+      "impressions": 2919021,
+      "clicks": 36890.0,
+      "spend": 4170.2300000000005,
+      "revenue": 23527.600000000002,
+      "ctr": 0.012637798768833797,
+      "roas": 5.641799133381133,
+      "ctr_7d": 0.012540743109498083,
+      "roas_7d": 5.124703403208422
+    },
+    {
+      "date": "2025-03-08T00:00:00",
+      "impressions": 2843254,
+      "clicks": 47433.0,
+      "spend": 4186.94,
+      "revenue": 43188.0,
+      "ctr": 0.016682646010521746,
+      "roas": 10.314931668473875,
+      "ctr_7d": 0.013139779520902938,
+      "roas_7d": 5.815776181206492
+    },
+    {
+      "date": "2025-03-09T00:00:00",
+      "impressions": 3628523,
+      "clicks": 46653.0,
+      "spend": 4659.85,
+      "revenue": 41842.93,
+      "ctr": 0.012857297583617356,
+      "roas": 8.979458566262862,
+      "ctr_7d": 0.013070061291268012,
+      "roas_7d": 6.0952569904807
+    },
+    {
+      "date": "2025-03-10T00:00:00",
+      "impressions": 1282811,
+      "clicks": 16773.0,
+      "spend": 2193.04,
+      "revenue": 13546.32,
+      "ctr": 0.01307519190278225,
+      "roas": 6.1769598365738885,
+      "ctr_7d": 0.013247057970967202,
+      "roas_7d": 6.152945636920691
+    },
+    {
+      "date": "2025-03-11T00:00:00",
+      "impressions": 3696388,
+      "clicks": 51857.0,
+      "spend": 7263.06,
+      "revenue": 56152.93,
+      "ctr": 0.014029100841145465,
+      "roas": 7.731304711788144,
+      "ctr_7d": 0.0132264985834769,
+      "roas_7d": 6.253668877400606
+    },
+    {
+      "date": "2025-03-12T00:00:00",
+      "impressions": 1971950,
+      "clicks": 28251.0,
+      "spend": 2445.59,
+      "revenue": 17554.22,
+      "ctr": 0.01432642815487208,
+      "roas": 7.177907989483111,
+      "ctr_7d": 0.013341551141247247,
+      "roas_7d": 6.823279505885489
+    },
+    {
+      "date": "2025-03-13T00:00:00",
+      "impressions": 1251288,
+      "clicks": 12479.0,
+      "spend": 2948.2799999999997,
+      "revenue": 12281.84,
+      "ctr": 0.00997292389921425,
+      "roas": 4.16576444571072,
+      "ctr_7d": 0.013368769594426707,
+      "roas_7d": 7.16973233595339
+    },
+    {
+      "date": "2025-03-14T00:00:00",
+      "impressions": 1968803,
+      "clicks": 28457.0,
+      "spend": 4190.0199999999995,
+      "revenue": 26175.23,
+      "ctr": 0.01445396009656629,
+      "roas": 6.247041780230167,
+      "ctr_7d": 0.013628221212674204,
+      "roas_7d": 7.256195571217539
+    },
+    {
+      "date": "2025-03-15T00:00:00",
+      "impressions": 3035391,
+      "clicks": 40552.0,
+      "spend": 4985.07,
+      "revenue": 19702.74,
+      "ctr": 0.013359728614863784,
+      "roas": 3.9523497162527312,
+      "ctr_7d": 0.013153518727580209,
+      "roas_7d": 6.347255292328803
+    },
+    {
+      "date": "2025-03-16T00:00:00",
+      "impressions": 3060341,
+      "clicks": 35011.0,
+      "spend": 3915.05,
+      "revenue": 24522.04,
+      "ctr": 0.011440228392849033,
+      "roas": 6.263531755660847,
+      "ctr_7d": 0.012951080271756165,
+      "roas_7d": 5.959265747957088
+    },
+    {
+      "date": "2025-03-17T00:00:00",
+      "impressions": 2283390,
+      "clicks": 25314.0,
+      "spend": 4781.93,
+      "revenue": 26035.600000000002,
+      "ctr": 0.011086148226978308,
+      "roas": 5.444579908112415,
+      "ctr_7d": 0.012666931175212743,
+      "roas_7d": 5.854640043891162
+    },
+    {
+      "date": "2025-03-18T00:00:00",
+      "impressions": 4030696,
+      "clicks": 52574.0,
+      "spend": 5039.8,
+      "revenue": 32135.399999999998,
+      "ctr": 0.013043404910715171,
+      "roas": 6.376324457319734,
+      "ctr_7d": 0.01252611747086556,
+      "roas_7d": 5.661071436109961
+    },
+    {
+      "date": "2025-03-19T00:00:00",
+      "impressions": 3503555,
+      "clicks": 32675.0,
+      "spend": 6881.14,
+      "revenue": 33240.39,
+      "ctr": 0.009326241489001885,
+      "roas": 4.83065160714649,
+      "ctr_7d": 0.011811805090026961,
+      "roas_7d": 5.325749095776159
+    },
+    {
+      "date": "2025-03-20T00:00:00",
+      "impressions": 4963964,
+      "clicks": 57922.0,
+      "spend": 7580.72,
+      "revenue": 55824.26,
+      "ctr": 0.011668497192969167,
+      "roas": 7.363978619445119,
+      "ctr_7d": 0.012054029846277663,
+      "roas_7d": 5.782636834881072
+    },
+    {
+      "date": "2025-03-21T00:00:00",
+      "impressions": 2399832,
+      "clicks": 17298.0,
+      "spend": 3103.83,
+      "revenue": 25600.06,
+      "ctr": 0.007208004560319222,
+      "roas": 8.247893731293274,
+      "ctr_7d": 0.011018893341099512,
+      "roas_7d": 6.068472827890086
+    },
+    {
+      "date": "2025-03-22T00:00:00",
+      "impressions": 1872229,
+      "clicks": 17722.0,
+      "spend": 3005.65,
+      "revenue": 12967.29,
+      "ctr": 0.00946572240895745,
+      "roas": 4.31430472609918,
+      "ctr_7d": 0.010462606740255748,
+      "roas_7d": 6.12018068643958
+    },
+    {
+      "date": "2025-03-23T00:00:00",
+      "impressions": 1773643,
+      "clicks": 19418.0,
+      "spend": 1685.56,
+      "revenue": 15287.46,
+      "ctr": 0.010948088200387564,
+      "roas": 9.069662308075655,
+      "ctr_7d": 0.010392300998475537,
+      "roas_7d": 6.521056479641695
+    },
+    {
+      "date": "2025-03-24T00:00:00",
+      "impressions": 4965210,
+      "clicks": 57029.0,
+      "spend": 7117.85,
+      "revenue": 42862.22,
+      "ctr": 0.011485717623222381,
+      "roas": 6.021793097634819,
+      "ctr_7d": 0.01044938234079612,
+      "roas_7d": 6.603515506716325
+    },
+    {
+      "date": "2025-03-25T00:00:00",
+      "impressions": 3218304,
+      "clicks": 39352.0,
+      "spend": 4896.19,
+      "revenue": 30616.920000000002,
+      "ctr": 0.012227558366145646,
+      "roas": 6.253213212722547,
+      "ctr_7d": 0.010332832834429045,
+      "roas_7d": 6.585928186059584
+    },
+    {
+      "date": "2025-03-26T00:00:00",
+      "impressions": 2522207,
+      "clicks": 40121.0,
+      "spend": 4808.7,
+      "revenue": 20468.56,
+      "ctr": 0.015907100408491453,
+      "roas": 4.256568303283633,
+      "ctr_7d": 0.011272955537213266,
+      "roas_7d": 6.503916285507747
+    },
+    {
+      "date": "2025-03-27T00:00:00",
+      "impressions": 2097075,
+      "clicks": 32753.0,
+      "spend": 4644.69,
+      "revenue": 16689.86,
+      "ctr": 0.015618420895771491,
+      "roas": 3.593320544535804,
+      "ctr_7d": 0.011837230351899316,
+      "roas_7d": 5.965250846234988
+    },
+    {
+      "date": "2025-03-28T00:00:00",
+      "impressions": 1984753,
+      "clicks": 24863.0,
+      "spend": 2695.53,
+      "revenue": 20532.91,
+      "ctr": 0.012526999581308103,
+      "roas": 7.61739249795031,
+      "ctr_7d": 0.012597086783469156,
+      "roas_7d": 5.875179241471707
+    },
+    {
+      "date": "2025-03-29T00:00:00",
+      "impressions": 2767210,
+      "clicks": 34221.0,
+      "spend": 5512.08,
+      "revenue": 37644.03,
+      "ctr": 0.012366607521655386,
+      "roas": 6.829369312491836,
+      "ctr_7d": 0.013011498942426005,
+      "roas_7d": 6.234474182384943
+    },
+    {
+      "date": "2025-03-30T00:00:00",
+      "impressions": 2484762,
+      "clicks": 27389.0,
+      "spend": 5823.860000000001,
+      "revenue": 21528.54,
+      "ctr": 0.011022786085749862,
+      "roas": 3.6966101520297534,
+      "ctr_7d": 0.013022170068906333,
+      "roas_7d": 5.466895302949815
+    },
+    {
+      "date": "2025-03-31T00:00:00",
+      "impressions": 2073553,
+      "clicks": 27311.0,
+      "spend": 3418.9500000000003,
+      "revenue": 25536.56,
+      "ctr": 0.013171112578265422,
+      "roas": 7.469123561327308,
+      "ctr_7d": 0.013262940776769623,
+      "roas_7d": 5.6736567977630274
+    }
+  ],
+  "logs": [
+    "Data loaded and summarized successfully.",
+    "2 insights generated.",
+    "6 creatives generated.",
+    "6 creative evaluations completed.",
+    "Planning step completed."
+  ]
+}
